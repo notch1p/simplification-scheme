@@ -23,10 +23,8 @@ Sorted by year.
 | 1988           | PRC  | 现代汉语通用字表           | [Wiktionary: 现代汉语通用字表](https://zh.wiktionary.org/wiki/Appendix:%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E9%80%9A%E7%94%A8%E5%AD%97%E8%A1%A8) | Revive some character variants that got merged/replaced earlier.<br />*Haven't found any document. You are always welcomed to create PR if you have related files.* |
 | 2013           | PRC  | 通用规范汉字表             | [CN-2013-通用规范汉字表](./CN-2013-通用规范汉字表.pdf)       | Revive some character variants that got merged/replaced earlier. |
 
-### Miscellaneous
-
-In Oct 2009, Prof. Andrew West proposed to add some variants(e.g. 2nd round simpilfied characters) at Unicode. Below is his proposal.
-
+### Miscellaneous  
+In Oct 2009, Prof. Andrew West proposed to add some variants(e.g. 2nd round simpilfied characters) at Unicode. Below is his proposal.  
 [JTC1_SC2_WG2_N3695](./JTC1_SC2_WG2_N3695.pdf)  
 More info about Erjianzi(二简字)  is also available at his website [Babelstone: Erjian](https://babelstone.co.uk/Fonts/Erjian.html).
 
