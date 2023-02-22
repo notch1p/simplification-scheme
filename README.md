@@ -34,4 +34,4 @@ For more info about Singapore's simplification scheme, check [SG-SG-其他参考
 
 
 
-I planned to include Japan's Shinjitai in here as well.
+~~I planned to include Japan's Shinjitai in here as well.~~ not gonna happen in the near future
